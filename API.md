@@ -4,6 +4,6 @@
 
 ## API Methods
 
-### DVPN, blockchain & etc.
+### Wallet management
 
 - [`PUT api/wallet`](api/PUT_wallet.md)
