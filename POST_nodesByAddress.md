@@ -74,5 +74,3 @@ This method is used to retrieve list of DVPN nodes by list of their blockchain a
 | Error Message                   |
 |---------------------------------|
 | UnknownError                    |
-
-Returns an error if there is duplicarion of addresses in body
