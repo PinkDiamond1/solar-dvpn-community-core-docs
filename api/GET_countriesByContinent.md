@@ -11,7 +11,7 @@ This method is used to retreive list of supported countries of selected continen
 ### Request
 
 ```
-GET api/nodes?
+GET api/countriesByContinent?
     continent=EU
 ```
 
