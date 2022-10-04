@@ -10,8 +10,14 @@ This method is used to retreive list of supported countries of selected continen
 
 ### Request
 
+```
 GET api/nodes?
     continent=EU
+```
+
+| Parameter      | Type        | Description                                                               | Required |
+|----------------|-------------|---------------------------------------------------------------------------|----------|
+| continent      | String      | Two-letter continent code (`AF`, `SA`, `NA`, `AS`, `EU`, `OC` or `AN`)    | YES      |
 
 ---
 
