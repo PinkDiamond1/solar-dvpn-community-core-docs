@@ -12,13 +12,13 @@ This method is used to create a connection to the specific node.
 
 ```
 {
-    "node_address": "sentnode1p7jjqtleeulshm6usegqf4m53xya3eh9vh4d67"
+    "nodeAddress": "sentnode1p7jjqtleeulshm6usegqf4m53xya3eh9vh4d67"
 }
 ```
 
 | Parameter          | Type        | Description                     | Required |
 |--------------------|-------------|---------------------------------|----------|
-| node_address       | String      | Node's blockchain address       | YES      |
+| nodeAddress       | String      | Node's blockchain address       | YES      |
 
 ---
 
