@@ -15,3 +15,8 @@
 - [`GET api/countries`](api/GET_countries.md)
 - [`GET api/continents`](api/GET_continents.md)
 - [`GET api/countriesByContinent`](api/GET_countriesByContinent.md)
+
+### DNS servers
+
+- [`GET api/dns`](api/dns/GET_dns.md)
+- [`PUT api/dns`](api/dns/PUT_dns.md)
