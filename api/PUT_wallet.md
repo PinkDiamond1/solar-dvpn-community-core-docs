@@ -33,11 +33,11 @@ This method is used to recover wallet from a seed phrase.
 }
 ```
 
-| Parameter       | Description                               |
-|-----------------|-------------------------------------------|
-|      address    | Blockchain address of the wallet          |
-|      balance    | Amount of tokens on the wallet            |
-|      currency   | Currency of the wallet                    |
+| Parameter                       | Type        | Description                                         |
+|---------------------------------|-------------|-----------------------------------------------------|
+| address                         | String      | Blockchain address of the wallet                    |
+| balance                         | Int         | mount of tokens on the wallet                       |
+| currency                        | String      | Currency of the wallet (`udvpn`)                    |
 
 ---
 
