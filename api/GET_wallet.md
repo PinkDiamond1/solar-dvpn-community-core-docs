@@ -18,7 +18,7 @@ No payload required.
 
 ```
 {
-   "address":"sent1plmslu3khrux7ycpfvcyjlpy9vxczzhxmjr7za",
+   "address":"sent09uyu0lrfsdvkeop213jsd7fq2rs29krf25ml87",
    "balance":0,
    "currency":"udvpn"
 }
@@ -26,9 +26,9 @@ No payload required.
 
 | Parameter                       | Type        | Description                                         |
 |---------------------------------|-------------|-----------------------------------------------------|
-| address                         | String      | Sentinel blockchain address for user's wallet       |
-| balance                         | Int         | Amount of tokens in current currency                |
-| currency                        | String      | Currency (`udvpn`)                                  |
+| address                         | String      | Blockchain address of the wallet                    |
+| balance                         | Int         | mount of tokens on the wallet                       |
+| currency                        | String      | Currency of the wallet (`udvpn`)                    |
 
 ---
 
