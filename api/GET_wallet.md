@@ -27,7 +27,7 @@ No payload required.
 | Parameter                       | Type        | Description                                         |
 |---------------------------------|-------------|-----------------------------------------------------|
 | address                         | String      | Blockchain address of the wallet                    |
-| balance                         | Int         | mount of tokens on the wallet                       |
+| balance                         | Int         | Amount of tokens on the wallet                       |
 | currency                        | String      | Currency of the wallet (`udvpn`)                    |
 
 ---
