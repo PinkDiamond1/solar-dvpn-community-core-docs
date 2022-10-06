@@ -31,7 +31,7 @@ No payload required.
 |---------------------------------|-------------|-----------------------------------------------------|
 | wallet                          |             | Wallet Object                                       |
 | wallet.address                  | String      | Blockchain address of the wallet                    |
-| wallet.balance                  | Int         | mount of tokens on the wallet                       |
+| wallet.balance                  | Int         | Amount of tokens on the wallet                       |
 | wallet.currency                 | String      | Currency of the wallet (`udvpn`)                    |
 | mnemonic                        | String      | Seed phrase of the wallet (mnemonic)                |
 
