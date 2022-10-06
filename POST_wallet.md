@@ -1,0 +1,44 @@
+## POST `api/wallet`
+
+---
+
+### Description
+
+This method is used to creates brand new wallet and generate new mnemonic.
+
+---
+
+### Request
+
+No payload required.
+
+---
+
+### Response
+
+```
+{
+   "wallet":{
+      "address":"sent09uyu0lrfsdvkeop213jsd7fq2rs29krf25ml87",
+      "balance":0,
+      "currency":"udvpn"
+   },
+   "mnemonic": "deer catalog human hint unique grass actual silk poet cupboard process combine fashion exotic eye fork urban entire stable sun blue pistol organ toddler"
+}
+```
+
+| Parameter                       | Type        | Description                                         |
+|---------------------------------|-------------|-----------------------------------------------------|
+| wallet                          |             | Wallet Object                                       |
+| wallet.address                  | String      | Blockchain address of the wallet                    |
+| wallet.balance                  | Int         | mount of tokens on the wallet                       |
+| wallet.currency                 | String      | Currency of the wallet (`udvpn`)                    |
+| mnemonic                        | String      | Seed phrase of the wallet (mnemonic)                |
+
+---
+
+### Errors
+
+| Error Message                   |
+|---------------------------------|
+| UnknownError                    |
