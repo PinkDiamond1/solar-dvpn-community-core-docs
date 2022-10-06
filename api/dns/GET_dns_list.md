@@ -27,10 +27,11 @@ No payload required.
 }
 ```
 
-| Parameter           | Type        | Description                  |
-|---------------------|-------------|------------------------------|
-| name                | String      | Name of the DNS server       |
-| addresses           | String      | DNS server addresses         |
+| Parameter              | Type        | Description                  |
+|------------------------|-------------|------------------------------|
+| servers[]              | Array       | DNS servers array            |
+| servers[].name         | String      | Name of the DNS server       |
+| servers[].addresses    | String      | DNS server addresses         |
 
 ---
 
