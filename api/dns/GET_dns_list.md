@@ -1,10 +1,10 @@
-## GET `api/dns`
+## GET `api/dns/list`
 
 ---
 
 ### Description
 
-This method is used to retrieve available DNS options
+This method is used to retrieve available DNS options.
 
 ---
 
