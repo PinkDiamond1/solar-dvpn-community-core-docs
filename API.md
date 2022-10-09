@@ -15,3 +15,7 @@
 - [`GET api/countries`](api/GET_countries.md)
 - [`GET api/continents`](api/GET_continents.md)
 - [`GET api/countriesByContinent`](api/GET_countriesByContinent.md)
+
+### Connection management
+
+- [`POST api/connection`](api/POST_connection.md)
