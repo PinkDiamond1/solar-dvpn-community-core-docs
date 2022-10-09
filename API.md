@@ -18,4 +18,5 @@
 
 ### Connection management
 
-- [`POST api/connection`](api/POST_connection.md)
+- [`POST api/connection`](api/connection/POST_connection.md)
+- [`DELETE api/connection`](api/connection/DELETE_connection.md)
