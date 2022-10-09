@@ -35,7 +35,11 @@ This method is used to create a connection to the specific node.
 | 500        | Unknown Error                       |
 | 500        | Already Connected                   |
 
+---
+
 ### WebSocket Events
+URL: ws://localhost:3876/echo 
+
 Since fetching connection info and creating a tunnel is a time-consuming operation 
 all related events and error will be transmitted to the client over the WebSocket connection.
 
