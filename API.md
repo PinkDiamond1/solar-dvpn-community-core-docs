@@ -25,3 +25,9 @@
 
 - [`GET api/dns`](api/dns/GET_dns.md)
 - [`PUT api/dns`](api/dns/PUT_dns.md)
+
+### Local Key-Value registry
+
+- [`GET api/registry`](api/registry/GET_registry.md)
+- [`POST api/registry`](api/registry/POST_registry.md)
+- [`DELETE api/registry`](api/registry/DELETE_registry.md)
