@@ -16,6 +16,11 @@
 - [`GET api/continents`](api/GET_continents.md)
 - [`GET api/countriesByContinent`](api/GET_countriesByContinent.md)
 
+### Connection management
+
+- [`POST api/connection`](api/connection/POST_connection.md)
+- [`DELETE api/connection`](api/connection/DELETE_connection.md)
+
 ### DNS servers
 
 - [`GET api/dns`](api/dns/GET_dns.md)
