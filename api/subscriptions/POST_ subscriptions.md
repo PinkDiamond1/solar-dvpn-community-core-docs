@@ -40,4 +40,4 @@ This method is used to subscribe to a node (buy data allowance).
 |------------|-----------------------------|------------------------------------|
 | 400        | Decoding error body         |                                    |
 | 401        | message from GRPS error     |                                    |
-| 402        | -                           | Not enought tokens to subscribe    |
+| 402        | Payment Required            | Not enought tokens to subscribe    |
