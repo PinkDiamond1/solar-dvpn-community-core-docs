@@ -33,6 +33,7 @@ Array of nodes addresses
 
 ### Errors
 
-| Error Message                   |
-|---------------------------------|
-| UnknownError                    |
+| Error Code | Error Message               | Description                        |
+|------------|-----------------------------|------------------------------------|
+| 400        | Decoding error body         |                                    |
+| 401        | message from GRPS error     |                                    |
