@@ -6,7 +6,10 @@
 
 ### Wallet management
 
+- [`GET api/wallet`](api/GET_wallet.md)
 - [`PUT api/wallet`](api/PUT_wallet.md)
+- [`POST api/wallet`](api/POST_wallet.md)
+- [`DELETE api/wallet`](api/DELETE_wallet.md)
 
 ### Nodes management
 
@@ -31,3 +34,7 @@
 - [`GET api/registry`](api/registry/GET_registry.md)
 - [`POST api/registry`](api/registry/POST_registry.md)
 - [`DELETE api/registry`](api/registry/DELETE_registry.md)
+
+### Subscriptions
+
+- [`GET api/subscriptions`](api/subscriptions/GET_subscriptions.md)
