@@ -45,7 +45,7 @@ See more about errors structure [here](https://docs.vapor.codes/basics/errors/).
 
 ```
 
-System (tunnel, network-related, etc), gRPC errors will be passed as is wrapped in a JSON string.
+System (tunnel, network-related, etc), [gRPC errors](https://github.com/grpc/grpc-swift/blob/a0d57279afa61975b8ca0d263f8a19c86bc5c43b/Sources/GRPC/GRPCError.swift) will be passed as is wrapped in a JSON string.
 
 | Parameter     | Type        |
 |---------------|-------------|
