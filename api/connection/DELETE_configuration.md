@@ -22,4 +22,4 @@ No payload required.
 
 ### Errors
 
-Find profile errors listed [here](api/connection/vpn_profile_errors.md#profile-removing)
+Find profile errors listed [here](vpn_profile_errors.md#profile-removing)
