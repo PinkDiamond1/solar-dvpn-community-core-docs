@@ -38,3 +38,9 @@
 ### Subscriptions
 
 - [`GET api/subscriptions`](api/subscriptions/GET_subscriptions.md)
+
+---
+
+## Errors
+
+[Read here](api/errors.md) about errors structure.
