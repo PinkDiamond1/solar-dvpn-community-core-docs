@@ -35,6 +35,10 @@
 - [`POST api/registry`](api/registry/POST_registry.md)
 - [`DELETE api/registry`](api/registry/DELETE_registry.md)
 
+### Purchases management
+
+- [`POST api/purchase`](api/purchases/POST_purchase.md)
+
 ### Subscriptions
 
 - [`GET api/subscriptions`](api/subscriptions/GET_subscriptions.md)
