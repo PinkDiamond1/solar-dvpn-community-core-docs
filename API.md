@@ -1,4 +1,4 @@
-# SOLAR DVPN Communtity — Local API
+# SOLAR DVPN Communtity Edition — Local API
 
 ---
 
