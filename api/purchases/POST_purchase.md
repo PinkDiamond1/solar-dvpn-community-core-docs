@@ -5,7 +5,7 @@
 ### Description
 
 This method is used to purchase a product in RevenueCat.  
-For more information take a look to RevenueCat documentaion: https://www.revenuecat.com/docs/displaying-products
+For more information take a look to RevenueCat documentaion: https://www.revenuecat.com/docs/making-purchases
 
 ---
 
