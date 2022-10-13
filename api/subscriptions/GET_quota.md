@@ -29,9 +29,9 @@ GET api/subscriptions/sentnode1p7jjqtleeulshm6usegqf4m53xya3eh9vh4d67
 
 | Parameter                       | Type        | Description                                         |
 |---------------------------------|-------------|-----------------------------------------------------|
-| address                         | String      | Wallet-subscription owner  blockchain address       |
-| consumed                        | String      | Consumed bandwidth                                  |
-| allocated                       | String      | Allocated bandwidth                                 |                    
+| address                         | String      | Wallet-subscription owner blockchain address        |
+| consumed                        | String      | Consumed bandwidth, bytes                           |
+| allocated                       | String      | Allocated bandwidth, bytes                          |                    
 
 
 ---
