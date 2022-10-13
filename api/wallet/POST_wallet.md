@@ -39,6 +39,8 @@ No payload required.
 
 ### Errors
 
-| Error Message                   |
-|---------------------------------|
-| UnknownError                    |
+| Error Code | Reason Phrase           | Description                             |
+|------------|-------------------------| ----------------------------------------|
+| 401        | missing_mnemonics       | Failed to load mnemonic from keychain   |
+| 500        | GRPS messages           | Fetch balance failed                    |
+| 500        | Internal server error   |                                         |
