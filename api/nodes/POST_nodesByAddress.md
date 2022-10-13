@@ -71,6 +71,8 @@ This method is used to retrieve list of DVPN nodes by list of their blockchain a
 
 ### Errors
 
-| Error Code | Reason Phrase      | Description                             |
-|------------|--------------------| ----------------------------------------|
-| 400        | Bad Request        | Decoding error                          |
+| Error Code | Reason Phrase        | Description                             |
+|------------|----------------------| ----------------------------------------|
+| 400        | Bad Request          | Decoding error                          |
+| 500        | Some backend message |                                         |
+
