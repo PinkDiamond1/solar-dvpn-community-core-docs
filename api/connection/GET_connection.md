@@ -17,12 +17,10 @@ No payload required.
 ### Response
 
 ```
-[
-  {
+{
     "nodeAddress": "sentnode1p7jjqtleeulshm6usegqf4m53xya3eh9vh4d67",
     "tunnelStatus": "disconnected"
-  }
-]
+}
 ```
 
 | Parameter    | Type        | Description                                    |
