@@ -41,7 +41,19 @@ This method is used to create a connection to the specific node.
 URL: ws://localhost:3876/echo 
 
 Since fetching connection info and creating a tunnel is a time-consuming operation 
-all related events and error will be transmitted to the client over the WebSocket connection.
+all related events and error will be transmitted to the client over the WebSocket connection. The events are passed as String.
+
+Events
+
+```
+{"type":"tunnelStatus","value":"connected"}
+```
+
+| Parameter   | Type        | Description                     |
+|-------------|-------------|---------------------------------|
+| type        | String      | Always `tunnelStatus`           |
+| value       | String      | `connected` or `disconnected`   | 
+
 
 Wallet-related errors
             
