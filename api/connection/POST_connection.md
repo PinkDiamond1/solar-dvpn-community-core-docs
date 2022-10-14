@@ -43,7 +43,9 @@ URL: ws://localhost:3876/echo
 Since fetching connection info and creating a tunnel is a time-consuming operation 
 all related events and error will be transmitted to the client over the WebSocket connection. The events are passed as String.
 
-Events
+---
+
+### Events
 
 ```
 {"type":"tunnelStatus","value":"connected"}
@@ -52,8 +54,22 @@ Events
 | Parameter   | Type        | Description                     |
 |-------------|-------------|---------------------------------|
 | type        | String      | Always `tunnelStatus`           |
-| value       | String      | `connected` or `disconnected`   | 
+| value       | String      | `connected` or `disconnected`   |
 
+---
+
+### Errors
+
+```
+{"type":"error","value":"{"message":"nodeIsOffline","code":500}"}
+```
+
+| Parameter     | Type        | Description                     |
+|---------------|-------------|---------------------------------|
+| type          | String      | Always `error`                  |
+| value         | String      | Error model                     |
+| value.message | String      | Error message                   |
+| value.code    | Int         | Error code                      |
 
 Wallet-related errors
             
