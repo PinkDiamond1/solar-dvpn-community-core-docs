@@ -67,5 +67,5 @@ Node-related errors
 Tunnel-related errors
 | Error Code | Error Message                       |
 |------------|-------------------------------------|
-| 500        | Some system messages                |
+| 500        | [System messages](vpn_profile_errors.md)                |
 | 500        | tunnelIsAlreadyActive               |
