@@ -40,6 +40,7 @@
 
 ### Purchases management
 
+- [`GET api/offerings`](api/purchases/GET_offerings.md)
 - [`POST api/purchase`](api/purchases/POST_purchase.md)
 
 ### Subscriptions
