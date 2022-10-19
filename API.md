@@ -40,6 +40,7 @@
 
 ### Purchases management
 
+- [`GET api/offerings`](api/purchases/GET_offerings.md)
 - [`POST api/purchase`](api/purchases/POST_purchase.md)
 
 ### Subscriptions
@@ -48,3 +49,7 @@
 - [`GET api/quota`](api/subscriptions/GET_quota.md)
 - [`DELETE api/subscriptions`](api/subscriptions/DELETE_subscriptions.md)
 - [`POST api/subscriptions`](api/subscriptions/POST_subscriptions.md)
+
+## Errors
+
+[Read here](api/errors.md) about errors structure.

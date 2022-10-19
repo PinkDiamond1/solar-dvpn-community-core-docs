@@ -78,6 +78,6 @@ GET api/nodes?
 
 ### Errors
 
-| Error Message                   |
-|---------------------------------|
-| UnknownError                    |
+| Error Code | Reason Phrase           | Description                             |
+|------------|-------------------------| ----------------------------------------|
+| 500        | Some backend message    |                                         |
