@@ -48,3 +48,7 @@
 - [`GET api/quota`](api/subscriptions/GET_quota.md)
 - [`DELETE api/subscriptions`](api/subscriptions/DELETE_subscriptions.md)
 - [`POST api/subscriptions`](api/subscriptions/POST_subscriptions.md)
+
+## Errors
+
+[Read here](api/errors.md) about errors structure.

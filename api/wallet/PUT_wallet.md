@@ -43,6 +43,12 @@ This method is used to recover wallet from a seed phrase.
 
 ### Errors
 
-| Error Message                   |
-|---------------------------------|
-| UnknownError                    |
+| Error Code | Reason Phrase                | Description                             |
+|------------|------------------------------| ----------------------------------------|
+| 400        | Bad request                  | Decoding error                          |
+| 500        | empty_input                  | Mnemonic is empty                       |
+| 500        | invalid_input                | Mnemonic is invalid                     |
+| 500        | saving_error                 | Failed to save mnemonic to keychain     |
+| 500        | GRPS messages                | Fetch balance failed                    |
+| 500        | Internal server error        |                                         |
+
