@@ -19,7 +19,7 @@ This method is used to select a DNS option from available servers.
 
 | Parameter   | Type           | Description                                                | Required |
 |-------------|----------------|------------------------------------------------------------|----------|
-| server      |  String        | DNS server name from [available options](api/dns/GET_dns)  | YES      |
+| server      |  String        | DNS server name from [available options](api/dns/GET_dns_current.md)  | YES      |
 
 ---
 
