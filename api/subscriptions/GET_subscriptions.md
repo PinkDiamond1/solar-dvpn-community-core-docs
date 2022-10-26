@@ -37,4 +37,3 @@ Array of nodes addresses
 |------------|-----------------------------|------------------------------------|
 | 500        | message from GRPS error     |                                    |
 | 400        | Decoding error body         |                                    |
-| 401        | message from GRPS error     |                                    |
