@@ -48,6 +48,6 @@ GET api/countriesByContinent?
 
 ### Errors
 
-| Error Message                   |
-|---------------------------------|
-| UnknownError                    |
+| Error Code | Reason Phrase           | Description                             |
+|------------|-------------------------| ----------------------------------------|
+| 400        | Bad request             | Failed to decode continent parameter    |

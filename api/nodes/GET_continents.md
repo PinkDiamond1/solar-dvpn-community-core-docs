@@ -41,6 +41,4 @@ No payload required.
 
 ### Errors
 
-| Error Message                   |
-|---------------------------------|
-| UnknownError                    |
+No possible errors.

@@ -24,6 +24,9 @@
 - [`POST api/connection`](api/connection/POST_connection.md)
 - [`DELETE api/connection`](api/connection/DELETE_connection.md)
 - [`GET api/connection`](api/connection/GET_connection.md)
+- [`DELETE api/connection/sessions`](api/connection/DELETE_sessions.md)
+- [`DELETE api/connection/configuration`](api/connection/DELETE_configuration.md)
+- [VPN Profile errors](api/connection/vpn_profile_errors.md)
 
 ### DNS servers
 
@@ -36,6 +39,18 @@
 - [`POST api/registry`](api/registry/POST_registry.md)
 - [`DELETE api/registry`](api/registry/DELETE_registry.md)
 
+### Purchases management
+
+- [`GET api/offerings`](api/purchases/GET_offerings.md)
+- [`POST api/purchase`](api/purchases/POST_purchase.md)
+
 ### Subscriptions
 
 - [`GET api/subscriptions`](api/subscriptions/GET_subscriptions.md)
+- [`GET api/quota`](api/subscriptions/GET_quota.md)
+- [`DELETE api/subscriptions`](api/subscriptions/DELETE_subscriptions.md)
+- [`POST api/subscriptions`](api/subscriptions/POST_subscriptions.md)
+
+## Errors
+
+[Read here](api/errors.md) about errors structure.

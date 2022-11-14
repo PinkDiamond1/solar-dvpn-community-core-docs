@@ -34,6 +34,7 @@ No payload required.
 
 ### Errors
 
-| Error Message                   |
-|---------------------------------|
-| UnknownError                    |
+| Error Code | Reason Phrase           | Description                             |
+|------------|-------------------------| ----------------------------------------|
+| 500        | GRPS messages           | Fetch balance failed                    |
+| 500        | Internal server error   |                                         |
