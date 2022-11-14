@@ -23,6 +23,7 @@
 
 - [`POST api/connection`](api/connection/POST_connection.md)
 - [`DELETE api/connection`](api/connection/DELETE_connection.md)
+- [`GET api/connection`](api/connection/GET_connection.md)
 - [`DELETE api/connection/sessions`](api/connection/DELETE_sessions.md)
 - [`DELETE api/connection/configuration`](api/connection/DELETE_configuration.md)
 - [VPN Profile errors](api/connection/vpn_profile_errors.md)
